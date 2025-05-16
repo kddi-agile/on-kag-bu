@@ -18,11 +18,6 @@
       <a href="./character/character-no-text-muscle.png" download>InnerSource Man (Muscle)</a><br/>
       <small>Muscle Version</small>
     </td>
-    <td align="center">
-      <img src="./character/character-copy.png" width="200px"><br/>
-      <a href="./character/character-copy.png" download>InnerSource Man (Copy)</a><br/>
-      <small>Full Version</small>
-    </td>
   </tr>
 </table>
 
@@ -30,6 +25,11 @@
 
 <table>
   <tr>
+    <td align="center">
+      <img src="./character/character-copy.png" width="200px"><br/>
+      <a href="./character/character-copy.png" download>Copy and Paste</a><br/>
+      <small>コピー&ペーストの表現</small>
+    </td>
     <td align="center">
       <img src="./character/lets-make-it-innersource.png" width="200px"><br/>
       <a href="./character/lets-make-it-innersource.png" download>Let's make it InnerSource</a><br/>
@@ -40,16 +40,16 @@
       <a href="./character/thanks-for-readme.png" download>Thanks for README</a><br/>
       <small>「README.mdありがてぇ」</small>
     </td>
-    <td align="center">
-      <img src="./character/no-readme.png" width="200px"><br/>
-      <a href="./character/no-readme.png" download>No README</a><br/>
-      <small>「READMEがない」</small>
-    </td>
   </tr>
 </table>
 
 <table>
   <tr>
+    <td align="center">
+      <img src="./character/no-readme.png" width="200px"><br/>
+      <a href="./character/no-readme.png" download>No README</a><br/>
+      <small>「READMEがない」</small>
+    </td>
     <td align="center">
       <img src="./character/reinventing-the-wheel.png" width="200px"><br/>
       <a href="./character/reinventing-the-wheel.png" download>Reinventing the Wheel</a><br/>
@@ -60,6 +60,8 @@
       <a href="./character/feeling-down.png" download>Feeling Down</a><br/>
       <small>「凹むわ〜」</small>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="./character/putting-away-man.png" width="200px"><br/>
       <a href="./character/putting-away-man.png" download>Putting Away</a><br/>
