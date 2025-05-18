@@ -62,9 +62,9 @@
       <small>ロゴ付きコピー&ペーストの表現</small>
     </td>
     <td align="center">
-      <img src="./character/lgtm.png" width="200px"><br/>
+      <img src="./character/LGTM.png" width="200px"><br/>
       <p>LGTM (Looks Good To Me)</p>
-      <a href="./character/lgtm.png" download>Download</a><br/>
+      <a href="./character/LGTM.png" download>Download</a><br/>
       <small>「良さそう」</small>
     </td>
   </tr>

@@ -102,9 +102,9 @@
       <small>「しまっちゃうおじさん」</small>
     </td>
     <td align="center">
-      <img src="./lgtm.png" width="200px"><br/>
+      <img src="./LGTM.png" width="200px"><br/>
       <p>LGTM (Looks Good To Me)</p>
-      <a href="./lgtm.png" download>Download</a><br/>
+      <a href="./LGTM.png" download>Download</a><br/>
       <small>「良さそう」</small>
     </td>
   </tr>
