@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./on-kag-bu-logo.png" width="300px" alt="音KAG部ロゴ">
+</div>
+
 # 音KAG部
 
 本レポジトリは、KDDIアジャイル開発センターことKAGの部活動「音KAG部」が作曲した楽曲を公開しています。
